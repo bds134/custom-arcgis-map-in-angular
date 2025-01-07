@@ -1,0 +1,13 @@
+@import url('https://js.arcgis.com/4.31/@arcgis/core/assets/esri/themes/light/main.css');
+.esri-view {
+  padding: 0;
+  margin: auto;
+  height: 50%;
+  width: 50%;
+}
+#mapViewNode {
+  padding: 10;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
