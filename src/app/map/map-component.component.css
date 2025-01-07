@@ -1,0 +1,9 @@
+@import url('https://js.arcgis.com/4.31/@arcgis/core/assets/esri/themes/dark/main.css');
+@import url('https://js.arcgis.com/4.31/@arcgis/core/assets/esri/themes/light/main.css');
+
+arcgis-map {
+  display: block;
+  height: 85vh;
+  max-width: 1000px;
+  margin: auto;
+}
